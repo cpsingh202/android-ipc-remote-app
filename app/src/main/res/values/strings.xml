@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Remote App</string>
+
+    <string name="key_input">input</string>
+    <string name="key_result">result</string>
+
 </resources>
