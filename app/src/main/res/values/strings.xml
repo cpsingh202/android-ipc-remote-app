@@ -4,4 +4,12 @@
     <string name="key_input">input</string>
     <string name="key_result">result</string>
 
+    <string name="operation_add">add</string>
+    <string name="operation_subtracts">subtracts</string>
+    <string name="operation_multiply">multiply</string>
+    <string name="operation_pow">pow</string>
+    <string name="key_operation">operation</string>
+    <string name="key_value_1">value1</string>
+    <string name="key_value_2">value2</string>
+
 </resources>
